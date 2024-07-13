@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kaarthikeyenG
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently preparing for eJPT Examination 
+- 🌱 eJPT Certified 
 - 💞️ I’m looking to collaborate on Bug bounty
 - 📫 How to reach me, I am available in linkedin & Twitter 
 
